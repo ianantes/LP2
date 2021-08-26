@@ -25,9 +25,9 @@ class Rect{
       }
      
      void drag(int dx, int dy){
-	    this.x += dx;
+	 this.x += dx;
          this.y += dy;
-	    System.out.format("Valor de x atual = %d\nValor de y atual = %d\n", this.x, this.y);
+	    
 
 
 
