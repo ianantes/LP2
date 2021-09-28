@@ -26,6 +26,29 @@ class ListFrame extends JFrame {
             }
         );
 
+	this.addMouseListener (
+		  new MouseAdapter() {
+			    public void mousePressed (MouseEvent evt) { 
+				   Point pos = new Point(getMousePosition());
+                                   focus = null; 
+				   for (Figure fig: figs){
+				        if(fig.clicked(pos.x, pos.y))     
+                                        {
+                                            focus = fig;
+					    figs.remove(fig);
+					    figs.add(fig);
+					    repaint();
+					    break;
+                                        }
+					else
+					{
+					    focus = null;
+					    repaint();
+					}					
+				    }
+					    
+	 );
+				    
          this.addKeyListener (
                  new KeyAdapter() {
                                     public void keyPressed (KeyEvent evt) {
