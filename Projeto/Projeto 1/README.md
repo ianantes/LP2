@@ -1,5 +1,5 @@
-# Projeto 1/2
-##Instruções do Projeto
+# Projeto 1/2<br>
+##Instruções do Projeto<br>
 **Criação de figuras:**
 - Tecla **r**: Retângulo
 - Tecla **e**: Elipse
