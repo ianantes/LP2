@@ -9,11 +9,11 @@
 - Tecla **f**<br>
 **Cor de contorno:**<br>
 - Tecla **c**<br>
-<br>**Deletar figura:*<br>
+**Deletar figura:*<br>
 - Tecla **Del**<br>
 **Aumentar e diminuir zoom:**<br>
 - Aumentar: Tecla **+**
-- Diminuir: Tecla **-**
+- Diminuir: Tecla **-**<br>
 **Observações:**<br>
 - Ao clicar com o mouse em uma figura, ela será focada através de um quadrado em volta dela
 - Ao pressionar com o mouse em uma figura, será possível arrastar a figura
