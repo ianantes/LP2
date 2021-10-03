@@ -1,19 +1,19 @@
 # Projeto 1/2<br>
-##Instruções do Projeto<br>
+## Instruções do Projeto<br>
 **Criação de figuras:**
 - Tecla **r**: Retângulo
 - Tecla **e**: Elipse
 - Tecla **a**: Arco
 - Tecla **o**: Oval
-**Cor de fundo:**
+**Cor de fundo:**<br>
 - Tecla **f**
-**Cor de contorno:**
+**Cor de contorno:**<br>
 - Tecla **c**
-**Deletar figura:*
+**Deletar figura:*<br>
 - Tecla **Del**
-**Aumentar e diminuir zoom:**
+**Aumentar e diminuir zoom:**<br>
 - Aumentar: Tecla **+**
 - Diminuir: Tecla **-**
-**Observações:**
+**Observações:**<br>
 - Ao clicar com o mouse em uma figura, ela será focada através de um quadrado em volta dela
 - Ao pressionar com o mouse em uma figura, será possível arrastar a figura
