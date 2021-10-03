@@ -5,15 +5,15 @@
 - Tecla **e**: Elipse
 - Tecla **a**: Arco
 - Tecla **o**: Oval
-**Cor de fundo:**<br>
+<br>**Cor de fundo:**<br>
 - Tecla **f**
-**Cor de contorno:**<br>
+<br>**Cor de contorno:**<br>
 - Tecla **c**
-**Deletar figura:*<br>
+<br>**Deletar figura:*<br>
 - Tecla **Del**
-**Aumentar e diminuir zoom:**<br>
+<br>**Aumentar e diminuir zoom:**<br>
 - Aumentar: Tecla **+**
 - Diminuir: Tecla **-**
-**Observações:**<br>
+<br>**Observações:**<br>
 - Ao clicar com o mouse em uma figura, ela será focada através de um quadrado em volta dela
 - Ao pressionar com o mouse em uma figura, será possível arrastar a figura
