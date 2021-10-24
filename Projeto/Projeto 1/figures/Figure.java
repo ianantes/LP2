@@ -1,11 +1,13 @@
 package figures;
 
+import java.io.Serializable;
+import ivisible.IVisible;
 import java.awt.*;
 import java.awt.event.*;
 
 
 
-public abstract class Figure {
+public abstract class Figure implements IVisible, Serializable {
     public int x, y, w, h;
     public int r, g, b;
     public int drawR, drawG, drawB;
@@ -33,5 +35,7 @@ public abstract class Figure {
 	    this.y += dy;
 		
     }	
-    public abstract void paint (Graphics g);
+    public boolean clicked (int x, int y) {
+	    return((this.x <= x && x <= (this.w + this.x)) && (this.y <= y && y <= (this.y + this.h)));
+    }
 }
