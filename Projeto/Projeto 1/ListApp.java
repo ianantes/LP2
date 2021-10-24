@@ -33,7 +33,7 @@ class ListFrame extends JFrame {
 				   Point pos = new Point(getMousePosition());
                    focus = null; 				
 				   for (Figure fig: figs){
-				        if((pos.x >= fig.x && pos.x <= (fig.w+fig.x)) && (pos.y >= fig.y && pos.y <= (fig.y+fig.h))) {
+				        if(fig.clicked(pos.x, pos.y)) {
 							focus = fig;
 							figs.remove(fig);
 							figs.add(fig);
