@@ -5,7 +5,7 @@
     /*          Classe D&D
 	          /      |     \            Todas as subclasses citadas apresentam características em comum como, por exemplo, poder, força, ataque e outros.
 	         /       |      \
-		      /        |       \
+		/        |       \
 	   barbaro  feiticeito  Ladino
 		
 	*/
