@@ -24,7 +24,7 @@ public class Arc extends Figure {
 		this.drawB = drawB;
 	}
 	
-	public void print() {
+	private void print() {
 	    System.out.format("Arco de tamanho (%d,%d) na posicao (%d,%d).\n", this.w, this.h, this.x, this.y);
 	}
 	
