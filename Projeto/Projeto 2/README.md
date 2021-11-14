@@ -14,7 +14,7 @@
 - Tecla **f**<br>
 **Cor de contorno:**
 - Tecla **c**<br>
-**Deletar figura:*
+**Deletar figura:**
 - Tecla **Del**<br>
 **Aumentar e diminuir zoom:**
 - Aumentar: Tecla **+**
