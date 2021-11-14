@@ -10,8 +10,8 @@ public abstract class Figure implements IVisible, Serializable {
     public int r, g, b;
     public int drawR, drawG, drawB;
 	
-	public Figure(int x, int y, int w, int h, int r, int g, int b, int drawR, int drawG, int drawB){
-	        this.x = x;
+    public Figure(int x, int y, int w, int h, int r, int g, int b, int drawR, int drawG, int drawB){
+	                this.x = x;
 			this.y = y;
 			this.w = w;
 			this.h = h;
@@ -21,7 +21,7 @@ public abstract class Figure implements IVisible, Serializable {
 			this.drawR = drawR;
 			this.drawG = drawG;
 			this.drawB = drawB;
-	}
+    }
     
     public void cc(int c1, int c2, int c3){
 	    this.drawR = c1;
@@ -30,7 +30,7 @@ public abstract class Figure implements IVisible, Serializable {
     }
 
     public void cf(int c1, int c2, int c3){
-        this.r = c1;
+                this.r = c1;
 		this.g = c2;
 		this.b = c3;
     }
