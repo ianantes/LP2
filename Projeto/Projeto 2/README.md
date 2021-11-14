@@ -26,3 +26,4 @@
 - Ao pressionar com o mouse em uma figura, será possível arrastar a figura
 - Ao clicar em um dos botões, clicando com o mouse em uma parte da tela que esteja fora do botão, será criada a figura referente ao botão clicado
 - Na posição que o mouse estiver no momento, será criada a figura
+- Será salvo automaticamente o que foi feito no programa no último ponto
