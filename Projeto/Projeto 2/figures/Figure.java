@@ -2,8 +2,6 @@ package figures;
 
 import java.io.Serializable;
 import ivisible.IVisible;
-import java.awt.*;
-import java.awt.event.*;
 
 
 
@@ -11,6 +9,19 @@ public abstract class Figure implements IVisible, Serializable {
     public int x, y, w, h;
     public int r, g, b;
     public int drawR, drawG, drawB;
+	
+	public Figure(int x, int y, int w, int h, int r, int g, int b, int drawR, int drawG, int drawB){
+	        this.x = x;
+			this.y = y;
+			this.w = w;
+			this.h = h;
+			this.r = r;
+			this.g = g;
+			this.b = b;
+			this.drawR = drawR;
+			this.drawG = drawG;
+			this.drawB = drawB;
+	}
     
     public void cc(int c1, int c2, int c3){
 	    this.drawR = c1;
