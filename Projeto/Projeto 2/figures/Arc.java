@@ -8,7 +8,7 @@ public class Arc extends Figure {
 	int start, extent, type;
 	
 	public Arc (int x, int y, int w, int h, int start, int extent, int type, int r, int g, int b, int drawR, int drawG, int drawB) {
-	    super(x, y, w, h, r, g, b, drawR, drawG, drawB);
+	        super(x, y, w, h, r, g, b, drawR, drawG, drawB);
 		this.start = start;
 		this.extent = extent;
 		this.type = type;
@@ -29,6 +29,6 @@ public class Arc extends Figure {
 		g2d.setColor(new Color(this.r, this.g, this.b));
 		g2d.fill(new Arc2D.Double(this.x, this.y, this.w, this.h, this.start, this.extent, this.type));
 		g2d.setColor(new Color(this.drawR, this.drawG, this.drawB));
-        g2d.draw(new Arc2D.Double(this.x, this.y, this.w, this.h, this.start, this.extent, this.type));		
+                g2d.draw(new Arc2D.Double(this.x, this.y, this.w, this.h, this.start, this.extent, this.type));		
 	}
 }
