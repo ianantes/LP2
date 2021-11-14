@@ -5,23 +5,23 @@
 - Tecla **e**: Elipse
 - Tecla **a**: Arco
 - Tecla **o**: Oval<br>
-**Botões - Criação de figuras (ordem):**<br>
+**Botões - Criação de figuras (ordem):**
 - Retângulo
 - Elipse
 - Arco
 - Oval<br>
-**Cor de fundo:**<br>
+**Cor de fundo:**
 - Tecla **f**<br>
-**Cor de contorno:**<br>
+**Cor de contorno:**
 - Tecla **c**<br>
-**Deletar figura:*<br>
+**Deletar figura:*
 - Tecla **Del**<br>
-**Aumentar e diminuir zoom:**<br>
+**Aumentar e diminuir zoom:**
 - Aumentar: Tecla **+**
 - Diminuir: Tecla **-**<br>
-**Mudar o foco da figura:**<br>
+**Mudar o foco da figura:**
 - Tecla **TAB**<br>
-**Observações:**<br>
+**Observações:**
 - Ao clicar com o mouse em uma figura, ela será focada através do contorno dela que estará em volta dela
 - Ao pressionar com o mouse em uma figura, será possível arrastar a figura
 - Ao clicar em um dos botões, clicando com o mouse em uma parte da tela que esteja fora do botão, será criada a figura referente ao botão clicado
