@@ -22,6 +22,6 @@ public class Oval extends Figure {
 		g2d.setColor(new Color(this.r, this.g, this.b));
 		g2d.fillOval(this.x,this.y, this.w,this.h);
 		g2d.setColor(new Color(this.drawR, this.drawG, this.drawB));
-        g2d.drawOval(this.x, this.y, this.w, this.h);		
+                g2d.drawOval(this.x, this.y, this.w, this.h);		
 	}
 }
